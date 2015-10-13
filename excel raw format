@@ -1,0 +1,6 @@
+
+1） 文本：vnd.ms-excel.numberformat:@
+2） 日期：vnd.ms-excel.numberformat:yyyy/mm/dd
+3） 数字：vnd.ms-excel.numberformat:#,##0.00
+4） 货币：vnd.ms-excel.numberformat:￥#,##0.00
+5） 百分比：vnd.ms-excel.numberformat: #0.00%
